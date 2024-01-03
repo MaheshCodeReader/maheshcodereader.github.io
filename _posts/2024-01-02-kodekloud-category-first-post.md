@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: first post written in kodekloud category
 categories: kodekloud
 ---

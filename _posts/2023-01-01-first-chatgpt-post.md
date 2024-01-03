@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: first post written by chatgpt
 categories: chat-gpt
 ---
