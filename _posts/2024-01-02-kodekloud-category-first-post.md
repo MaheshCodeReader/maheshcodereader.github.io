@@ -1,6 +1,6 @@
 ---
 layout: default
-title: first post written in kodekloud category
+title: first post written in kodekloud category.
 categories: Kodekloud
 ---
 Title: Mastering GCP Digital Leadership: A Comprehensive Certification Guide

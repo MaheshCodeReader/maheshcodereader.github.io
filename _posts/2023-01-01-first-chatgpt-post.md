@@ -1,6 +1,6 @@
 ---
 layout: default
-title: first post written by chatgpt
+title: first post written by chatgpt.
 categories: Chatgpt
 ---
 Title: Mastering GCP Digital Leadership: A Comprehensive Certification Guide
