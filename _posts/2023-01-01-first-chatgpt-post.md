@@ -1,3 +1,8 @@
+---
+layout: post
+title: first post written by chatgpt
+categories: chat-gpt
+---
 Title: Mastering GCP Digital Leadership: A Comprehensive Certification Guide
 
 Introduction:
