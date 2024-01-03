@@ -1,7 +1,7 @@
 ---
 layout: default
 title: first post written by chatgpt
-categories: chat-gpt
+categories: Chatgpt
 ---
 Title: Mastering GCP Digital Leadership: A Comprehensive Certification Guide
 
@@ -9,7 +9,7 @@ Introduction:
 
 Embarking on the journey to become a GCP Digital Leader? You're in for an exciting ride! In this blog post, we'll guide you through the key aspects of the certification course, ensuring you're well-prepared to navigate the world of Google Cloud Platform (GCP).
 
----
+
 
 Body:
 
